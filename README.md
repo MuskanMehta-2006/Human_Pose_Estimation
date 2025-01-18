@@ -1,4 +1,4 @@
-HUMAN POSE ESTIMATION
+                                                    HUMAN POSE ESTIMATION:-
 
 MediaPipe Pose Detection - Video and Image Processing
 This project uses Google Colab along with the MediaPipe library to process video and image files. It performs pose detection on the input video or image and overlays the detected pose landmarks. The code handles both video and image files and provides processed outputs with landmarks drawn on them.
